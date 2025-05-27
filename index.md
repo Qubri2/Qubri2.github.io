@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about computer hardware and design"
 
-linkedin: www.linkedin.com/in/quyme-brice-1a9588169/
+linkedin: www.linkedin.com/in/quyme-brice-1a9588169
 image: /assets/images/me.jpg
 ---
