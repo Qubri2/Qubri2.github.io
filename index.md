@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Quyme Brice
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "Big Year, Big Moves, Big Ways, Big Gains."
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Senior, Electrical Engineering @ Morgan State University University"
+  - "🔬 Research: Anti-Passive Attack System"
+  - "📍 Based in Baltimore, MD"
+  - "🚀 Passionate about computer hardware and design"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: www.linkedin.com/in/quyme-brice-1a9588169
 image: /assets/images/me.jpg
 ---
