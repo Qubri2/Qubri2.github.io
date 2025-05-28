@@ -4,27 +4,27 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
+  name: Quyme Brice
+  role: Senior, Electrical Engineering Major at Morgan State University
   image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  linkedin: https://www.linkedin.com/in/quyme-brice-1a9588169
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently studying at Morgan State University for a bachelor in electrical engineering. I'm on a research team for our senior design project with the goal to prevent passive attacks on a trustee network.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    I love diving into hardware components of computers such as graphics and processors. Building computers from scratch has always been a passion of mines. Being part of this internship will increase my skills within software and coding which hardware definently need.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    Building computer and doing research by looking at computer stats online is something I love doing. Every year when AMD and NVIDIA release their lastest product I'm probably looking at the hardware stats. 
 
   hobbies:
     - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
+      title: Going to the Gym
+      description: I'm becoming more consisent of going the gym and building my body.
     - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
+      title: Stock Market
+      description: I've been learning more about stock and business composition. It has become a great journey so far.
     - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+      title: PC Gaming
+      description: I love playing games on steampowered and get to new level.
 
   gallery:
     - image: /assets/images/me-guitar.png
