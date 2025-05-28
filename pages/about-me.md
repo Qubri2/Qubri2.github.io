@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Quyme Brice
   role: Senior, Electrical Engineering Major at Morgan State University
-  image: /assets/images/me.jpg
+  image: /assets/images/BB picture.PNG
   linkedin: https://www.linkedin.com/in/quyme-brice-1a9588169
   bio: |
     I’m currently studying at Morgan State University for a bachelor in electrical engineering. I'm on a research team for our senior design project with the goal to prevent passive attacks on a trustee network.
