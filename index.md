@@ -7,7 +7,7 @@ motto: "Big Year, Big Moves, Big Ways, Big Gains."
 
 quick_facts:
   - "🎓 Senior, Electrical Engineering @ Morgan State University University"
-  - "🔬 Research: Anti-Passive Attack System"
+  - "🔬 Research: AI-Driven Flight Delay Prediction Model for Climate-Resilient"
   - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about computer hardware and design"
 
