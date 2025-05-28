@@ -33,6 +33,6 @@ about:
       caption: Fresh 🏀
     - image: /assets/images/BPIC4.jpeg
       caption: GYM
-    - image: /assets/images/me-pi.png
+    - image: //assets/images/BPIC5.PNG
       caption: Working on a personal project w/ the Raspberry PI
 ---
