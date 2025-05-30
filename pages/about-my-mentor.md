@@ -10,11 +10,6 @@ graduate_mentor:
   website: https://www.linkedin.com/in/abiola-ajala-89a400272/
   bio: |
       A Business Analyst, Data Analyst, works on AI. Has skill in techincal writing, business documentation, UX Research, computer engineering, workshop faciliation, quality assurance and more. Master's in Advanced Computing, Computer Science at Morgan State University. Bachelor's in Computer Science at National Open University of Nigeria (NOUN).
-
- 
-    
-    
-
 faculty_mentor:
   name: Dr. Kofi Nyarko
   title: Professor Nyarko, Morgan State University
