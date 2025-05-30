@@ -1,7 +1,7 @@
 ---
 layout: mentor
 title: About My Mentors
-permalink: permalink: /about-mentors/
+permalink: /about-mentors/
 
 
 graduate_mentor:
