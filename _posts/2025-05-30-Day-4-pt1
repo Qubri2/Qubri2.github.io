@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Day 4 – Presentation, Escape Room, and Python 101"
+date: 2025-05-29
+author: Quyme Brice
+permalink: /day4.html
+tags: ["101", "Python", "Computer Vision", "Escape Room"]
+
+what_i_learned: |
+  We started the day by listening to a "Computer Vision" presentation. This presentation talk about the different ways machine learning can take previous image and give you results. We were able to test this ourselves by using a website called "copilot". We had to upload our own image and video to get results. After the presentation we broke into our project team breakroom to play escape room. Our project team had to communicate with each other to solve each other puzzle in order to escape. Then we went to our python 101 room that explain the basic of python. Today we tackle conversion of integers and strings. We also talked about variables.
+
+blockers: |
+  TBD.
+
+reflection: |
+  I learned how advanced AI is with idenfitying real-life objects. The more examples that the computer has the more accurate the outcome will be. For the "Escape Room", I learned that communication is key in order to escape the room. Within the python 101 presentation I learned about variables and putting them together.
+---
