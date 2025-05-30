@@ -1,26 +1,32 @@
 ---
 layout: mentor
 title: About My Mentors
-permalink: /about-my-mentor.html
+permalink: https://www.linkedin.com/in/abiola-ajala-89a400272/
 
 graduate_mentor:
   name: Abiola Olayinka Ajala
   title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  image: /assets/images/PIC890.png
+  website: https://www.linkedin.com/in/abiola-ajala-89a400272/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    A Business Analyst, Data Analyst, works on AI. Has skill in techincal writing, business documentation, UX Research, computer engineering, workshop faciliation, quality assurance and more. Master's in Advanced Computing, Computer Science at Morgan State University. Bachelor's in Computer Science at National Open University of Nigeria (NOUN).
+
+ 
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    
 
 faculty_mentor:
   name: Dr. Kofi Nyarko
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  title: Professor Nyarko, Morgan State University
+  image: /assets/images/PIC567.png
+  website: https://www.linkedin.com/in/kofinyarko/
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
+    Professor of Electrical and Computer Engineering at Morgan State University and Director of the Center for Equitable AI and Machine Learning Systems (CEAMLS). He also lead the Data Engineering and Predictive Analytics (DEPA) Research Lab, where my team and I explore computer vision, machine learning, and generative AI to solve real-world problems.
+
+  Much of my work centers on making complex systems more intelligent and more equitable—from autonomous air and ground vehicles used in remote sensing and navigation, to responsible AI methods that strengthen cybersecurity for Internet of Things platforms. He especially interested in ensuring that AI systems are not only powerful, but also fair, ethical, and trustworthy.
+
+  He has received the US Black Engineer HBCU STEM Innovation Award, hold three U.S. patents, and regularly speak and consult on AI, machine learning, and software engineering. Whether it’s research, innovation, or tech policy, he is committed to shaping an AI future that works for everyone.
     
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    
 
 ---
