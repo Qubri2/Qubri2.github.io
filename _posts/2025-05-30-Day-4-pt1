@@ -7,11 +7,11 @@ permalink: /day4.html
 tags: ["101", "Python", "Computer Vision", "Escape Room"]
 
 what_i_learned: |
-  We started the day by listening to a "Computer Vision" presentation. This presentation talk about the different ways machine learning can take previous image and give you results. We were able to test this ourselves by using a website called "copilot". We had to upload our own image and video to get results. After the presentation we broke into our project team breakroom to play escape room. Our project team had to communicate with each other to solve each other puzzle in order to escape. Then we went to our python 101 room that explain the basic of python. Today we tackle conversion of integers and strings. We also talked about variables.
+  We covered many topics during our Python 101 session. This included “True and False”, “Boolean”, and “If and Else”. These codes can be plugged into a program to receive exact results. I learned that you must tell the computer every detail so the program can understand what you are trying to do. We were able to apply our knowledge by using replit and playing kahoot. This allowed us to see where we really are at.
 
 blockers: |
   TBD.
 
 reflection: |
-  I learned how advanced AI is with idenfitying real-life objects. The more examples that the computer has the more accurate the outcome will be. For the "Escape Room", I learned that communication is key in order to escape the room. Within the python 101 presentation I learned about variables and putting them together.
+  I can see the progress of my python knowledge. I’ve ensured myself to ask a lot of questions. This expanded my thoughts to see how to execute different python programs. After lunch we had a presentation on Generative AI. How AI generates certain results. Learning, Thinking, and Communicating. We generated our own product. I made a song using “suno”. We played kahoot to confirm the information we learned in the presentation. We talked about ”LLMS”. This stands for Large Language Models.
 ---
