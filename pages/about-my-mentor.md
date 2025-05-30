@@ -1,7 +1,8 @@
 ---
 layout: mentor
 title: About My Mentors
-permalink: https://www.linkedin.com/in/abiola-ajala-89a400272/
+permalink: permalink: /about-mentors/
+
 
 graduate_mentor:
   name: Abiola Olayinka Ajala
