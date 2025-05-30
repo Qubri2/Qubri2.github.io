@@ -1,7 +1,7 @@
 ---
 layout: mentor
 title: About My Mentors
-permalink: /about-mentors/
+permalink: https://qubri2.github.io/about-my-mentor.html
 
 
 graduate_mentor:
